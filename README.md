@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0724-find-pivot-index) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/2149-rearrange-array-elements-by-sign) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
