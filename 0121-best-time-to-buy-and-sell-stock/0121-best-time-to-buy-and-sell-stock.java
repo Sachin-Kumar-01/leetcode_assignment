@@ -11,27 +11,27 @@ class Solution {
         //     }
         // }
         // return  n;
-        // int buy_price=prices[0];
-        // int profit=0;
-        // for(int i=0;i<prices.length;i++){
-        //     if(buy_price>prices[i]){
-        //         buy_price=prices[i];
-        //     }
-        //     else if(profit<prices[i]-buy_price){
-        //         profit=prices[i]-buy_price;
-        //     }
-        // }
-        // return profit;
-
-        int min=prices[0];
+        int buy_price=prices[0];
         int profit=0;
-        for(int i=1;i<prices.length;i++){
-            int cost=prices[i]-min;
-            profit=Math.max(profit,cost);
-            min=Math.min(min,prices[i]);
+        for(int i=0;i<prices.length;i++){
+            if(buy_price>prices[i]){
+                buy_price=prices[i];
+            }
+            else if(profit<prices[i]-buy_price){
+                profit=prices[i]-buy_price;
+            }
         }
+        return profit;
 
-          return profit;
+        // int min=prices[0];
+        // int profit=0;
+        // for(int i=1;i<prices.length;i++){
+        //     int cost=prices[i]-min;
+        //     profit=Math.max(profit,cost);
+        //     min=Math.min(min,prices[i]);
+        // }
+
+        //   return profit;
 
 
 
