@@ -20,6 +20,8 @@ class Solution {
         }
         return maxlen;
 
+// removed the inside while loop
+
         // while(right<nums.length){
         //     if(nums[right]==0) zeroes++;
         //     if(zeroes<=k){
