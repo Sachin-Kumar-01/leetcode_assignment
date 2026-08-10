@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
