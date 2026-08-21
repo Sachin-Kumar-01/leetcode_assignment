@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0930-binary-subarrays-with-sum) |
@@ -91,5 +92,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
