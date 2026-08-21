@@ -3,9 +3,9 @@ class Solution {
         int left=0;
         int right=x;
         int maxans=0;
-        while(left<=right){
         int ans=0;
 
+        while(left<=right){
             int mid=left+(right-left)/2;
             if((long)mid*mid<=x){
                 ans=mid;
