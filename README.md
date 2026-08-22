@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0367-valid-perfect-square) |
