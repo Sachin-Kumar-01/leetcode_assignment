@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -61,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sachin-Kumar-01/leetcode_assignment/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
